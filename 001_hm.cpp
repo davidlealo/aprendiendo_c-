@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::count<<"Hola mundo";
+    std::cout << "Hola mundo";
     return 0;
 };
